@@ -10,7 +10,7 @@
 
 
 
-This repository contains the assets required to build the [ SAFETII ](https://github.com/PCSEAIML-25/G8-Safetii) Website . 
+This repository contains the assets required to build the [ SAFETII ](https://github.com/PCSEAIML-25/G8-Safetii) Website. 
 
 
 # An overview of the website
