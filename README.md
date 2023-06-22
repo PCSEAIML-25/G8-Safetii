@@ -35,6 +35,13 @@ This repository contains the assets required to build the [ SAFETII ](https://gi
 
 <img width="1440" alt="Screenshot 2023-06-22 at 1 56 01 PM" src="https://github.com/PCSEAIML-25/G8-Safetii/assets/86067292/4ee54ca8-eaac-4a79-aaf9-a9106b3c5de2">
 
+
+
+<h3 align="center"> AI ChatBot  </h3>
+
+<img width="1438" alt="Screenshot 2023-06-22 at 4 13 34 PM" src="https://github.com/PCSEAIML-25/G8-Safetii/assets/86067292/a6a6d281-26ad-48b1-9294-cbe276700275">
+
+
 ##  ❤️ Thanks to all Contributors
 
 Thanks a lot for spending your time helping us grow. Thanks a lot! Keep rocking 🍻
