@@ -47,7 +47,7 @@ This repository contains the assets required to build the [ SAFETII ](https://gi
 Thanks a lot for spending your time helping us grow. Thanks a lot! Keep rocking 🍻
 <p> 
  
-[![Contributors](https://contrib.rocks/image?repo=PCSEAIML-25/G8-Safetii)](https://github.com/PCSEAIML-25/G8-Safetii)
+[![Contributors](https://contrib.rocks/image?repo=PCSEAIML-25/G8-Safetii)](https://github.com/devanshu0605/G8-Safetii)
  
 </p>
 
