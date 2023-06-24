@@ -42,6 +42,10 @@ This repository contains the assets required to build the [ SAFETII ](https://gi
 <img width="1438" alt="Screenshot 2023-06-22 at 4 13 34 PM" src="https://github.com/PCSEAIML-25/G8-Safetii/assets/86067292/a6a6d281-26ad-48b1-9294-cbe276700275">
 
 
+<h3 align="center"> Find Nearby Hospital Page  </h3>
+<img width="1173" alt="Screenshot 2023-06-24 at 6 06 38 PM" src="https://github.com/PCSEAIML-25/G8-Safetii/assets/86067292/af091a3f-0bc5-4833-aac5-9815c96048c5">
+
+
 ##  ❤️ Thanks to all Contributors
 
 Thanks a lot for spending your time helping us grow. Thanks a lot! Keep rocking 🍻
