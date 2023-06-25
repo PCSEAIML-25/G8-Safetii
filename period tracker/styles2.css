@@ -1,0 +1,33 @@
+body {
+  background-color: #d7b6e6;
+  color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .input-row {
+    margin-top: 20px;
+  }
+  
+  input {
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #result-container {
+    margin-top: 20px;
+  }
+  #box1{
+    background-color: #a93cdb;
+    width: 40%;
+    margin-top: 260px;
+    border-radius: 20px;
+  }
