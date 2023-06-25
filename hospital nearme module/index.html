@@ -1,0 +1,64 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Nearby Hospitals</title>
+  <!-- Include any necessary CSS framework -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <style>
+    input{
+        background-color: #360b4a;
+    }
+    body{
+        background-color: #d7b6e6;
+        color: #360b4a;
+    }
+    #map {
+      height: 400px;
+    }
+    #hospitallist li{
+        cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <br>
+    <center> <h1>Nearby Hospitals</h1> </center>
+    <form id="locationForm">
+      <div class="form-group">
+        <label for="cityInput">Enter City:</label>
+        <input type="text" class="form-control" id="cityInput" placeholder="City Name">
+      </div>
+      <center> <button type="submit" class="btn btn-primary">Search</button> </center>
+      <br>
+    </form>
+    <div id="map"></div>
+    <br> 
+   <center> <h3>  <ul id="hospitalList"></ul> </h3> </center>
+  </div>
+
+  <!-- Include the Mapbox GL JS library -->
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.css' rel='stylesheet' />
+  <!-- Include the JavaScript file -->
+  <script src="script.js"></script>
+
+  <!-- Include the Geolocation API script -->
+  <script>
+    // Check if the Geolocation API is available
+    if ("geolocation" in navigator === false) {
+      alert("Geolocation is not supported by your browser");
+    }
+  </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
